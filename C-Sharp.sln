@@ -3,15 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Usd To Bgn Convertor", "Usd To Bgn Convertor\01 Usd To Bgn Convertor.csproj", "{00BE8400-2F0C-4564-9E77-02365843EDA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01 Usd To Bgn Convertor", "Usd To Bgn Convertor\01 Usd To Bgn Convertor.csproj", "{00BE8400-2F0C-4564-9E77-02365843EDA6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Programming Basics", "Programming Basics", "{87DDB97C-BE1F-41F9-B74A-E88E5CE5B0BC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "First steps in codding", "First steps in codding", "{B65550E1-02D1-4001-BE71-349A47A00BBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 radiansInDegrees", "02 radiansInDegrees\02 radiansInDegrees.csproj", "{A4CAD058-0214-424B-B395-AC10A1C59DE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02 radiansInDegrees", "02 radiansInDegrees\02 radiansInDegrees.csproj", "{A4CAD058-0214-424B-B395-AC10A1C59DE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 Calculator Deposits", "03 Calculator Deposits\03 Calculator Deposits.csproj", "{07482FB2-B706-4724-9877-B2FF0820F2C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03 Calculator Deposits", "03 Calculator Deposits\03 Calculator Deposits.csproj", "{07482FB2-B706-4724-9877-B2FF0820F2C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04 School Suplies", "04 School Suplies\04 School Suplies.csproj", "{3CAB6A2C-9B67-4797-A104-47BA728B6886}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "If Else Conditions", "If Else Conditions", "{708880B6-55E3-4245-80E6-B1CEECF37B55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 sum seconds", "01 sum seconds\01 sum seconds.csproj", "{14DDA68E-8C45-436F-8CDA-C84F2236B8D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 bonus points", "02 bonus points\02 bonus points.csproj", "{121E30B7-C550-44E2-8B15-619C659D8570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 time plus 15 minutes", "time plus 15 minutes\03 time plus 15 minutes.csproj", "{F88BC984-525B-46CE-8B1D-58CFA4BF23CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 toy shop", "04 toy shop\04 toy shop.csproj", "{AD97F298-96F4-4523-8E06-E4931622AC8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +43,26 @@ Global
 		{07482FB2-B706-4724-9877-B2FF0820F2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07482FB2-B706-4724-9877-B2FF0820F2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07482FB2-B706-4724-9877-B2FF0820F2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CAB6A2C-9B67-4797-A104-47BA728B6886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAB6A2C-9B67-4797-A104-47BA728B6886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAB6A2C-9B67-4797-A104-47BA728B6886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAB6A2C-9B67-4797-A104-47BA728B6886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14DDA68E-8C45-436F-8CDA-C84F2236B8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DDA68E-8C45-436F-8CDA-C84F2236B8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DDA68E-8C45-436F-8CDA-C84F2236B8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DDA68E-8C45-436F-8CDA-C84F2236B8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{121E30B7-C550-44E2-8B15-619C659D8570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121E30B7-C550-44E2-8B15-619C659D8570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121E30B7-C550-44E2-8B15-619C659D8570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121E30B7-C550-44E2-8B15-619C659D8570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F88BC984-525B-46CE-8B1D-58CFA4BF23CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88BC984-525B-46CE-8B1D-58CFA4BF23CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88BC984-525B-46CE-8B1D-58CFA4BF23CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88BC984-525B-46CE-8B1D-58CFA4BF23CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD97F298-96F4-4523-8E06-E4931622AC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD97F298-96F4-4523-8E06-E4931622AC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD97F298-96F4-4523-8E06-E4931622AC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD97F298-96F4-4523-8E06-E4931622AC8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -40,6 +72,12 @@ Global
 		{B65550E1-02D1-4001-BE71-349A47A00BBB} = {87DDB97C-BE1F-41F9-B74A-E88E5CE5B0BC}
 		{A4CAD058-0214-424B-B395-AC10A1C59DE1} = {B65550E1-02D1-4001-BE71-349A47A00BBB}
 		{07482FB2-B706-4724-9877-B2FF0820F2C1} = {B65550E1-02D1-4001-BE71-349A47A00BBB}
+		{3CAB6A2C-9B67-4797-A104-47BA728B6886} = {B65550E1-02D1-4001-BE71-349A47A00BBB}
+		{708880B6-55E3-4245-80E6-B1CEECF37B55} = {87DDB97C-BE1F-41F9-B74A-E88E5CE5B0BC}
+		{14DDA68E-8C45-436F-8CDA-C84F2236B8D1} = {708880B6-55E3-4245-80E6-B1CEECF37B55}
+		{121E30B7-C550-44E2-8B15-619C659D8570} = {708880B6-55E3-4245-80E6-B1CEECF37B55}
+		{F88BC984-525B-46CE-8B1D-58CFA4BF23CE} = {708880B6-55E3-4245-80E6-B1CEECF37B55}
+		{AD97F298-96F4-4523-8E06-E4931622AC8A} = {708880B6-55E3-4245-80E6-B1CEECF37B55}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F15A6147-EE59-42D3-AC7D-0E6CE3F8E7D4}
